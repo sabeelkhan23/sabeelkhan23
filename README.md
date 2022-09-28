@@ -8,4 +8,4 @@
 
 * 📫 How to reach me: khansabeel651@gmail.com
 
-* 👔 LinkedIn Profile
+* 👔 LinkedIn Profile : https://www.linkedin.com/in/sabeelkhan98/
