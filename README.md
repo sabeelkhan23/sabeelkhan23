@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @sabeelkhan23
-- 👀 I’m interested in DATA
-- 🌱 I’m currently learning and building projects related to Data science & Machine Learning
-- 💞️ I’m looking to collaborate on open-source projects with similiar interests
-- 📫 How to reach me - https://www.linkedin.com/in/sabeelkhan98/ or email me  - khansabeel146@gmail.com
+* 👨‍💻 I work with Python, SQL and Visualization tools.
 
-<!---
-sabeelkhan23/sabeelkhan23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* 🏦 I currrently work as a Data Quality Analyst at Conservis LLC
+
+* 🏫 I'm currently a graduate student at Cleveland State University majoring in Master's in Computer Science.
+
+* 🌱 3+ years of working experience in Machine Learning, Data mining with large datasets of Structured and Unstructured data, Predictive modelling and Data Visualization.
+
+* 📫 How to reach me: khansabeel651@gmail.com
+
+* 👔 LinkedIn Profile
