@@ -1,6 +1,6 @@
 * 👨‍💻 I work with Python, SQL and Visualization tools.
 
-* 🏦 I currrently work as a Data Quality Analyst at Conservis LLC
+* 🏦 I currently work as a Data Quality Analyst at Conservis LLC
 
 * 🏫 I'm currently a graduate student at Cleveland State University majoring in Master's in Computer Science.
 
